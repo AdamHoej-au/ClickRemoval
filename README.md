@@ -5,7 +5,8 @@
 - Python 3.x
   - numpy
   - soundfile
-```npn install numpy soundfile```
+  
+```pip install numpy soundfile```
 
 ## Brug
 > Smid det lige i en temp mappe, bare så der ikke sker noget uhænsigmæssigt med filerne.
